@@ -1,7 +1,8 @@
-webgpio
+Hello
 =======
 
 RPi + NodeJS + DigiSpark
+
 See package.json for list of npm packages used.
 
 To install:
