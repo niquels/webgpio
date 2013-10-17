@@ -7,7 +7,7 @@ See package.json for list of npm packages used.
 
 To install:
 
-1.  git clone git://github.com/niquels/webgpio
+1.  git clone https://github.com/niquels/webgpio
 2.  npm install webgpio
 
 To run:
