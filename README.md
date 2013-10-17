@@ -1,7 +1,7 @@
-Hello
+RPi + NodeJS + DigiSpark
 =======
 
-RPi + NodeJS + DigiSpark
+You can control devices through the web interface.
 
 See package.json for list of npm packages used.
 
