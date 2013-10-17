@@ -1,4 +1,5 @@
-var express = require('express') , stylus = require('stylus') , nib = require('nib'), gpio = require('pi-gpio')
+var express = require('express') , stylus = require('stylus') , nib = require('nib'), gpio = require('pi-gpio'), mongoose = require('mongoose')
+
 
 var app = express()
 function compile(str, path) {
