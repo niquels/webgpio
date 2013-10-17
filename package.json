@@ -4,6 +4,8 @@
   "description": "webgpio package istaller",
   "main": "app.js",
   "private": "true",
+  "config": { "port" : "8080" },
+  "scripts" : { "expressInstall": "npm install expressInstall" },
   "dependencies": {
     "express": "3.0.0alpha4",
     "jade": "*",
