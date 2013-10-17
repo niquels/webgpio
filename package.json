@@ -1,6 +1,8 @@
 {
   "name": "MySite",
   "version": "0.0.1",
+  "description": "webgpio package istaller",
+  "main": "app.js",
   "private": "true",
   "dependencies": {
     "express": "3.0.0alpha4",
