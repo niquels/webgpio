@@ -5,7 +5,7 @@
   "main": "app.js",
   "private": "true",
   "config": { "port" : "8080" },
-  "scripts" : { "install": "npm install express; npm install jade; npm install stylus; npm install nib; npm install pi-gpio; npm install mongoose; " },
+  "scripts" : { "install": "npm install express; npm install jade; npm install stylus; npm install nib; npm install pi-gpio; npm install mongoose " },
   "dependencies": {
     "express": "3.0.0alpha4",
     "jade": "*",
