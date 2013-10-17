@@ -20,4 +20,4 @@ app.get('/', function (req, res) {
   { title : 'Home' }
   )
 })
-app.listen(process.env.npm_package_config_port)
+app.listen(3000)
