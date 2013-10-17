@@ -1,7 +1,7 @@
 webgpio
 =======
 
-Control raspberry pi gpio pins from the web with variouis node modules.
+RPi + NodeJS + DigiSpark
 See package.json for list of npm packages used.
 
 To install:
